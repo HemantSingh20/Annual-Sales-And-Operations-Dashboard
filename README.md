@@ -14,4 +14,37 @@ This project contains an interactive Excel dashboard designed to analyze:
 - State-wise Sales Contribution  
 - Channel-wise Order Share  
 - Customer Demographics (Age Groups & Trends)  
-- KPI Summary  
+- KPI Summary
+
+---
+
+## 🧩 Key Features
+
+### 🔹 Interactive Visuals
+- Bar Charts  
+- Donut Charts  
+- Line Charts  
+- KPI Cards  
+- State Performance Map  
+
+### 🔹 Data Cleaning & Preparation
+- Removed duplicates  
+- Handled missing values  
+- Standardized date formats  
+- Organized categories for analysis
+
+### 🔹 Insightful Metrics
+- Top-performing channels  
+- Best-performing states  
+- Gender purchase patterns  
+- Monthly peak trends  
+- Age group performance
+
+---
+## 🛠️ Tech Stack
+
+| Tool | Purpose |
+|------|---------|
+| **Microsoft Excel** | Dashboard creation |
+| **Pivot Tables** | Data summarization |
+| **Pivot Charts** | Visualizations |
