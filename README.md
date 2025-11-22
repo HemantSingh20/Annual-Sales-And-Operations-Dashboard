@@ -1,6 +1,6 @@
 # Annual-Sales-And-Operations-Dashboard
 
-A visually rich, analytics-driven Excel dashboard that presents the complete yearly performance of **Vrinda Store**.  
+A visually rich, analytics-driven Excel dashboard that presents the complete yearly performance.  
 This dashboard highlights key insights across **sales, customer demographics, order status, state-wise performance, and channel contribution**, enabling clear, data-driven decision-making.
 
 ---
